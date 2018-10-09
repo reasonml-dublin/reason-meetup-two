@@ -17,7 +17,7 @@ If you encounter any difficulty, just send a [message on Meetup.com](https://www
 
 If you are Linux or OSX this should come prepackaged with your OS. If you are on Windows, you may need to install it.
 
-You can the downloads on this page: [Node.js download](https://nodejs.org/en/download/)
+You can the see downloads on this page: [Node.js download](https://nodejs.org/en/download/)
 
 ## Reason-cli
 
